@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CiCd.SqlServerDatabase/v15/.suo
+/.vs/ProjectSettings.json
+/.vs
+/SqlServerDatabase/.vs/SqlServerDatabase/v15
+/SqlServerDatabase/bin/Debug
+/SqlServerDatabase/Import Schema Logs
+/SqlServerDatabase/obj/Debug
